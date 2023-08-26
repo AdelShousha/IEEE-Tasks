@@ -17,19 +17,19 @@ Speaking of *analyzing, cleaning, exploring, and manipulating* data, what functi
 
 function | what it does | category
 ------------ | ----------- | ---------
-`astype()` |   |  
-`groupby()` |   |  
-`sort_values()` |   |  
-`pivot_table()` |   |  
-`merge()` |   |  
-`plot()` |   |  
-`corr()` |   |  
-`cov()` |   |  
-`apply()` |   |  
-`loc()` |   |  
-`iloc()` |   |  
-`iterrows()` |   |  
-`aggregate()` |   |
+`astype()` |  Convert the data type of columns  |  clean
+`groupby()` | Group data based on one or more columns  |  analyze
+`sort_values()` | Sort the rows of a DataFrame |  manipulate 
+`pivot_table()` | pivots a DataFrame |  manipulate
+`merge()` | Combine two DataFrames |  manipulate
+`plot()` | Create plots and visualizations  | explore  
+`corr()` | Compute the correlation between columns |   analyze
+`cov()` | Compute the covariance between columns   | analyze 
+`apply()` | Apply a function on a DataFrame  | manipulate 
+`loc()` | Access rows and columns by labels |  explore
+`iloc()` | Access rows and columns by index |  explore  
+`iterrows()` | Iterate over DataFrame rows as pairs. |  explore 
+`aggregate()` | Apply one or more aggregation operations to the data. | analyze
 
 $\rightarrow$ You may insert code snippets here if you like!
 
