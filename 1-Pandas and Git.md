@@ -218,4 +218,8 @@ You may want to check [this](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=16813
 ## Problem Solving 🤔
 [A. Panoramix's Prediction](https://codeforces.com/problemset/problem/80/A)
 
+https://codeforces.com/problemset/submission/80/220528269
+
 [A. Again Twenty Five!](https://codeforces.com/problemset/problem/630/A)
+
+https://codeforces.com/problemset/submission/630/220539013
